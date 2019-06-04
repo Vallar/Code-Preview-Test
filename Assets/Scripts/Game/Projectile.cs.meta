@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a28ec22af24a3f54190021048a50bf8e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - targetCollisionEvent: {fileID: 11400000, guid: 824b8f56089939540ae7640fe95299c5,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
